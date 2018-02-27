@@ -1,0 +1,13 @@
+clean
+run
+clean
+h2-browser
+run
+exit
+run
+exit
+clean
+run
+exit
+run
+exit
